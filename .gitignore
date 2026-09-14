@@ -1,0 +1,7 @@
+﻿# local only
+.env
+*.secrets.local
+*.pem
+.DS_Store
+Thumbs.db
+
